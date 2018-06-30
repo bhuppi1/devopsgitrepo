@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hello Students
+Welcome to Git Lab 1.
+=======
+Hello
+>>>>>>> 48309527d3bbb30927bf83fec354d1678d11e3d5
